@@ -1,5 +1,7 @@
 package com.example.homework3
 
+import android.view.View
+import android.widget.Toast
 import androidx.recyclerview.widget.DiffUtil
 import com.example.homework3.databinding.ItemContactBinding
 import com.example.homework3.model.ContactView
